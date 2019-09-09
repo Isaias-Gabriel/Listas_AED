@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1568045627 source:d:\cc\listas\main.c
+	<stdlib.h>
+	<stdio.h>
+	"listas.h"
+
+1567688270 d:\cc\listas\listas.h
+	<stdlib.h>
+	<stdio.h>
+
+1568047203 source:d:\cc\listas\listas.c
+	<stdlib.h>
+	<stdio.h>
+	"listas.h"
+
+1567016125 source:d:\cc\test.c
+
+1567622687 source:d:\cc\test\listas\listas.c
+	<stdlib.h>
+	<stdio.h>
+	"listas.h"
+
+1567621056 d:\cc\test\listas\listas.h
+	<stdlib.h>
+	<stdio.h>
+
+1567622469 source:d:\cc\test\listas\main.c
+	<stdlib.h>
+	<stdio.h>
+	"listas.h"
+
